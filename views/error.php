@@ -1,0 +1,1 @@
+<h1>pagina de error 404</h1>
